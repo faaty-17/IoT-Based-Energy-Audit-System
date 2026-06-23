@@ -12,7 +12,7 @@
 const char* ssid          = "Infinix HOT 11"; 
 const char* password      = "2026fatyyy"; 
 
-// !!! ATTENTION : Thabbet fil IP mta3 PC mte3ek tawa b-ipconfig !!!
+
 const char* serverIPStr   = " 192.168.152.96"; 
 const char* securityKey   = "123456";
 
