@@ -1,4 +1,4 @@
-# ⚡ IoT Energy Dashboard — ESP32 + Flask + Streamlit
+# IoT Energy Dashboard 
 
 Dashboard de surveillance énergétique et environnementale pour ESP32 (BME280 + INA219).
 
